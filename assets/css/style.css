@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Consider moving the background image to the HTML as an img tag, then use CSS to format. */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/* Start of sidebar styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,6 +135,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End of sidebar styles */
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
